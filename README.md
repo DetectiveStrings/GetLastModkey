@@ -1,5 +1,5 @@
 # getlastmodkey
-## hello , this is my first volatility plugin , a very helpful one at least for me , helped me to detect a suspicious behavior of malwares like wannacry and detect its activity in registers , hope it will be helphull for you also , (windows profile based plugin) 
+## hello , this is my first volatility plugin , a very helpful one at least for me , helped me to detect a suspicious behaviors of malwares like wannacry and detect its activity in registers , hope it will be helphull for you also , (windows profile based plugin) 
 
 ### this plugin get a list of last modified registry keys , just give it the time you need to start listing from and it will do a good job 
 ### also you can specify a range of time to search in just set the start time and end time
