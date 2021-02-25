@@ -6,15 +6,15 @@
 ### you can specify the hive file you want to search into , by default it search NTUSER.DAT 
 
 ## usage flags 
-###-t : if you need to search from the time you set to the last key 
+### -t : if you need to search from the time you set to the last key 
 
   getlastmodkey -t "2021-02-22 17:52:48"
   
-###-s , -e : if you will search a range of time , you must set the both together 
+### -s , -e : if you will search a range of time , you must set the both together 
   
   getlastmodkey -s "2021-02-22 17:52:48" -e "2021-02-25 10:52:18"
   
-###-n : when you need to search a specific hive , by default the plugin search NTUSER.DAT , you can use it with any of the 2 types of searching 
+### -n : when you need to search a specific hive , by default the plugin search NTUSER.DAT , you can use it with any of the 2 types of searching 
   
   getlastmodkey -t "2021-02-22 17:52:48" -n SAM 
   
