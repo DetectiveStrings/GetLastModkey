@@ -5,6 +5,10 @@
 #### also you can specify a range of time to search in just set the start time and end time
 #### you can specify the hive file you want to search into, by default it searches NTUSER.DAT 
 
+## UPDATE
+### I had released version 2 because of some problems that can happen,
+### in some cases, the script will exit very fast before extracting any key, so if you faced this problem with version 1, hopefully, it's completely solved in version 2.
+
 ## usage flags 
 #### -t: if you need to search from the time you set to the last key 
 
